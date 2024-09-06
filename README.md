@@ -1,4 +1,5 @@
 # Body Fat Prediction Project
+<img width="598" alt="front" src="https://github.com/user-attachments/assets/fb819477-0c61-4120-9ed2-3c6128469dea">
 
 ## Project Overview
 
@@ -13,6 +14,8 @@ This project focuses on developing and evaluating machine learning models to pre
 ## Dataset
 
 The dataset comprises various physical attributes such as weight, height, age, and measurements from different body parts. The dataset is preprocessed and split into training and testing sets for model evaluation.
+
+<img width="598" alt="toc" src="https://github.com/user-attachments/assets/67bb172d-2c94-4717-88b3-4c07031cba72">
 
 ## Models Used
 
